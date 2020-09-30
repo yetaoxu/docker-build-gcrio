@@ -1,1 +1,1 @@
-docker pull gcr.io/deepmath/hol-light:latest
+FROM gcr.io/deepmath/hol-light:latest
